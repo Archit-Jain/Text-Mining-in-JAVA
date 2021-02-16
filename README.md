@@ -1,4 +1,6 @@
-# textmining
+# Text-Mining-in-JAVA KPT labs
+
+This repository consists of the submitted lab work for Knowledge Processing Techniques @ RIT 
 reading data and creating dictionary to implement text search algorithms
 
 Implemented tokenization
